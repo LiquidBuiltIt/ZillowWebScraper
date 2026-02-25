@@ -134,7 +134,7 @@ pip install jupyter
 ### Download
 1. Run the following command in your terminal:
     ```shell
-    git clone https://github.com/h8ngryDev4Hire/ZillowWebScraper
+    git clone https://github.com/Liquidbuiltit/ZillowWebScraper
     ```
 2. BOOM! You're done! You'll be able to play around with the scraper using the demo.ipynb demo file or by importing it into your python project.
 
@@ -148,7 +148,7 @@ pip install jupyter
 
 <br>
 
-> "Parts of this project are based on code from [Zillow Web-Scraper](https://github.com/h8ngryDev4Hire/ZillowWebScraper) by [h8ngryDev4Hire](https://github.com/h8ngryDev4Hire/)."
+> "Parts of this project are based on code from [Zillow Web-Scraper](https://github.com/Liquidbuiltit/ZillowWebScraper) by [Liquidbuiltit](https://github.com/Liquidbuiltit/)."
 
 
 <br>
@@ -157,11 +157,11 @@ pip install jupyter
 
 
 ## Contributing
-<<<<<<< HEAD
+
 - This is a personal project I made. Feel free to use it in your code projects. 
-=======
+
 - This is a personal project I made. Feel free to use it in your code projects!
->>>>>>> c332e5cb68db9c6b5a79b0ddedb5e17731b23dcd
+
 
 ## License
-- This project is licensed under the GPL3 License. Check [LICENSE.md](https://github.com/h8ngryDev4Hire/ZillowWebScraper/blob/main/LICENSE.md) for more information. 
+- This project is licensed under the GPL3 License. Check [LICENSE.md](https://github.com/liquidbuiltit/ZillowWebScraper/blob/main/LICENSE.md) for more information. 
